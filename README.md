@@ -9,4 +9,4 @@
 - [ ] У администратора есть возможность блокировки аккаунтов.
 - [ ] Администратор может изменять, добавлять, удалять книги.
 ## База данных
-![image](https://user-images.githubusercontent.com/101516703/203921904-ec8f7187-187b-425d-8252-0d4f43076d4d.png)
+![image](https://user-images.githubusercontent.com/101516703/204573584-605f67af-38e2-41f2-bb0e-d2c380a08c3c.png)
